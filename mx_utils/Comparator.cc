@@ -4,8 +4,8 @@
 
 #include "Comparator.h"
 #include "Slice.h"
-#include "mx_utils/logging.h"
-#include "mx_utils/no_destructor.h"
+#include "mx_utils/Logging.h"
+#include "mx_utils/No_destructor.h"
 
 namespace mx_blobstack {
 
